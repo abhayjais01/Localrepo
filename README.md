@@ -1,4 +1,4 @@
 # Get-Fit!-
 This is my first repository
 <br>
-Author- Abhay jaiswal
+Author- Abhay kumar(JNV)
